@@ -2,7 +2,7 @@
 
 Webの本質はアクセシビリティである、と言われます。以下はWorld Wide Webの創始者であるW3Cのディレクター、Tim Berners-Lee氏の言葉です（参考1）。
 
->The power of the Web is in its universality.Access by everyone regardless of disability is an essential aspect.
+>The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.
 
 >Webの力はその普遍性にあります。障害の有無にかかわらず誰もがアクセスできるというのが Webの本質的な側面なのです。
 
